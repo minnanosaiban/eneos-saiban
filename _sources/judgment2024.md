@@ -1,11 +1,11 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
 <meta name="twitter:description" content="東京地裁判決書全文　山田悠一郎裁判官">
-<meta name="twitter:image" content="https://minnanosaiban.github.io/hotline/_static/logo.png">
+<meta name="twitter:image" content="https://minnanosaiban.github.io/eneos-saiban/_static/logo.png">
 <meta property="og:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
 <meta property="og:description" content="東京地裁判決書全文　山田悠一郎裁判官">
-<meta property="og:image" content="https://minnanosaiban.github.io/hotline/_static/logo.png">
-<meta property="og:url" content="https://minnanosaiban.github.io/hotline/judgment2024.html">
+<meta property="og:image" content="https://minnanosaiban.github.io/eneos-saiban/_static/logo.png">
+<meta property="og:url" content="https://minnanosaiban.github.io/eneos-saiban/judgment2024.html">
 
 
 # ⚡判決書全文　2024年確定<br>　  山田悠一郎裁判官

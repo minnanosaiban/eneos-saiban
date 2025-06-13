@@ -2,7 +2,7 @@
 
 ## 18　原告第５準備書面
 ---
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/hotline/_static/eneos-genkoku5.pdf">ＰＤＦ</a>の用意があります。
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-genkoku5.pdf">ＰＤＦ</a>の用意があります。
 <div class="base" style="margin-top: 1.6em;">
 
 ````{card}
@@ -140,7 +140,7 @@
 <p class="pad2 hg-idt">
 <b>４　原告が開設したウェブサイトについて</b>
 <p class="pad2 idt">
-本書は、ChatGPT を活用して作成しており、プロンプト及び応答をリンク先（ https://minnanosaiban.github.io/hotline/chatgpt ）に掲載している。
+本書は、ChatGPT を活用して作成しており、プロンプト及び応答をリンク先（ https://minnanosaiban.github.io/eneos-saiban/chatgpt ）に掲載している。
 <p class="pad1 hg-idt">
 <a name="dai5_2"></a>
 <b>第２　原告の主張</b>
@@ -986,7 +986,7 @@
 
 ## 16　被告準備書面（５）
 ---
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/hotline/_static/eneos-hikoku5.pdf">ＰＤＦ</a>の用意があります。
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-hikoku5.pdf">ＰＤＦ</a>の用意があります。
 <div class="base" style="margin-top: 1.6em;">
 
 ````{card}
@@ -1550,7 +1550,7 @@
 
 ## 15　文書送付嘱託申立書
 ---
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/hotline/_static/eneos-souhusyokutaku_2024.11.25.pdf">ＰＤＦ</a>の用意があります。
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-souhusyokutaku_2024.11.25.pdf">ＰＤＦ</a>の用意があります。
 
 <p style="margin-top: 1.6em;">
 <b>文書送付嘱託申立書</b>
@@ -1657,7 +1657,7 @@
 
 ## 14　求釈明申立書
 ---
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/hotline/_static/eneos-kyusyakumei_2024.11.25.pdf">ＰＤＦ</a>の用意があります。
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-kyusyakumei_2024.11.25.pdf">ＰＤＦ</a>の用意があります。
 
 <p style="margin-top: 1.6em;">
 <b>求釈明申立書</b>
@@ -1749,7 +1749,7 @@
 
 ## 13　原告第４準備書面
 ---
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/hotline/_static/eneos-genkoku4.pdf">ＰＤＦ</a>の用意があります。
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-genkoku4.pdf">ＰＤＦ</a>の用意があります。
 <div class="base" style="margin-top: 1.6em;">
 
 ````{card}
