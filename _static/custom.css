@@ -29,6 +29,9 @@
 .bd-footer-content noprint {
   display: none;
   }
+.md-content { /* 画面余白調整 */
+  margin-bottom: 10rem;
+  }
 /* 基本要素 ★★★ */
 h1 {
   margin-right: 4.5rem;
@@ -181,7 +184,11 @@ p {
   transform: translateX(8px);
   }
 .arrow-link:hover {
-  color: var(--md-default-fg-color--light) !important;  
+  transition: color 0.3s ease;
+  text-decoration: underline;
+  text-underline-offset: 8px;
+  text-decoration-color: var(--web-color);
+  text-decoration-thickness: 1.2px;
 }
 /* ドロップダウン*/
 details.sd-dropdown summary.sd-summary-title {
