@@ -1,19 +1,4 @@
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-<meta name="twitter:description" content="東京地裁判決書全文　坂巻陽士裁判官">
-<meta name="twitter:image" content="https://minnanosaiban.github.io/eneos-saiban/_static/logo.png">
-<meta property="og:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-<meta property="og:description" content="東京地裁判決書全文　坂巻陽士裁判官">
-<meta property="og:image" content="https://minnanosaiban.github.io/eneos-saiban/_static/logo.png">
-<meta property="og:url" content="https://minnanosaiban.github.io/eneos-saiban/judgment2025.html">
-
-
-# ⚡判決書全文　2025年言渡<br>　  坂巻陽士裁判官
-
-
-## 🔸判決書全文
----
-<i class="fa-regular fa-file-pdf fa-2x"></i> ＰＤＦは、マスキング後、掲載します。
+# <span style="color: #f37726;"><i class="fa-solid fa-angles-right"></i></span>　2025年3月判決<br>　　坂巻陽士裁判官
 
 <p style="margin-top: 1.6em;">
 令和７年３月３１日判決言渡　同日原本領収　裁判所書記官
