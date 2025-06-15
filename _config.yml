@@ -1,12 +1,12 @@
-title: 主張書面と認否、山田悠一郎裁判官判決文、坂巻陽士裁判官判決文
+title: みんなの裁判 - ＥＮＥＯＳ（エネオス）の内部通報制度に関する裁判
 description: ＥＮＥＯＳ（エネオス）の内部通報制度とコンプライアンス対応をめぐる訴訟について、山田悠一郎裁判官・坂巻陽士裁判官の判決文を通じて、日本の通報窓口における調査の透明性、心理的安全性との関係を検証しています。
 logo: logo.png
 exclude_patterns: [_build, _00hikae, README.md, memo.txt]
 
 html:
-  announcement: <a class="reference external" href="https://minnanosaiban.github.io/hotline/judgment2025.html">東京地裁判決</a>と<a class="reference external" href="https://minnanosaiban.github.io/hotline/_static/eneos-kouso1.pdf">控訴理由書</a>を掲載しました。
+  announcement: <a class="reference external" href="https://minnanosaiban.github.io/eneos-saiban/judgment2025.html">東京地裁判決</a>と<a class="reference external" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-kouso1.pdf">控訴理由書</a>を掲載しました。
   favicon: "_static/favicon.png" 
-  baseurl: https://minnanosaiban.github.io/hotline/
+  baseurl: https://minnanosaiban.github.io/eneos-saiban/
   use_multitoc_numbering: true
   home_page_in_navbar: true
   use_edit_page_button: false
@@ -33,5 +33,5 @@ parse:
     - tasklist
 
 repository:
-  url: https://github.com/minnanosaiban/hotline
+  url: https://github.com/minnanosaiban/eneos-saiban
   branch: main

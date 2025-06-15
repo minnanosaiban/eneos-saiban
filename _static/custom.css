@@ -26,18 +26,25 @@
   margin-right: 0;
   margin-left: 0;
   }
+.bd-footer-content noprint {
+  display: none;
+  }
+.md-content { /* 画面余白調整 */
+  margin-bottom: 10rem;
+  }
 /* 基本要素 ★★★ */
 h1 {
   margin-right: 4.5rem;
   margin-left: 4.5rem;
-  font-size: 3em;
+  font-size: 2em;
   line-height: 1.5;
-  margin-bottom: 10rem;
+  margin-bottom: 4rem;
+  font-style: 300 !important;
   }
 h2 {
   margin-right: 4.5rem;
   margin-left: 4.5rem;
-  margin-top: 10rem;
+  margin-top: 4rem;
   font-size: 2em;
   padding-left:2em;
   text-indent:-2em;
@@ -46,19 +53,19 @@ h2 {
 h3 {
   margin-right: 4.5rem;
   margin-left: 4.5rem;
-  margin-top: 10rem;
+  margin-top: 4rem;
   font-size: 2em;
   }
 h4 {
   margin-right: 4.5rem;
   margin-left: 4.5rem;
-  margin-top: 10rem;
+  margin-top: 4rem;
   font-size: 2em;
   }
 h5 {
   margin-right: 4.5rem;
   margin-left: 4.5rem;
-  margin-top: 10rem;
+  margin-top: 4rem;
   font-size: 2em;
   }
 hr {
@@ -156,6 +163,33 @@ p {
 .linkcard-text {
   font-size: 0.85em;
   }
+/* リンクに下線と矢印 */
+.arrow-link {
+  display: inline-block;
+  color: var(--md-typeset-color) !important;
+  text-decoration: none;
+  font-size: 1em;
+  transition: color 0.3s ease;
+  text-decoration: underline;
+  text-underline-offset: 8px;
+  text-decoration-color: var(--web-color);
+  text-decoration-thickness: 1px;
+}
+.arrow-link .arrow {
+  color: var(--web-color);  
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+.arrow-link:hover .arrow {
+  transform: translateX(8px);
+  }
+.arrow-link:hover {
+  transition: color 0.3s ease;
+  text-decoration: underline;
+  text-underline-offset: 8px;
+  text-decoration-color: var(--web-color);
+  text-decoration-thickness: 1.2px;
+}
 /* ドロップダウン*/
 details.sd-dropdown summary.sd-summary-title {
   padding: .5em .6em .5em 1em;

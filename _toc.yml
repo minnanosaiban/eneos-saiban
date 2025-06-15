@@ -1,8 +1,9 @@
 format: jb-book
 root: index
 chapters:
-    - file: judgment2024
+    - file: argument.md
     - file: judgment2025
+    - file: judgment2022
 
 
 
