@@ -1,4 +1,4 @@
-# <span style="color: #f37726;"><i class="fa-solid fa-angles-right"></i></span>　主張書面と双方の認否
+# <span style="color: #f37726;"><i class="fa-solid fa-angles-right"></i></span>　当事者の主張書面と認否
 
 ## 18　原告第５準備書面
 ---
