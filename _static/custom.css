@@ -257,9 +257,7 @@ a.reference.internal {
   }
 a.reference.internal:hover {
   color: var(--web-color);
-  text-decoration: underline;
-  text-decoration-color: var(--web-color);
-  text-decoration-thickness: 1px;
+  text-decoration: none !important;
   }
 /* 内部リンク）目次ナビゲーション */
 a.reference.internal.nav-link {
