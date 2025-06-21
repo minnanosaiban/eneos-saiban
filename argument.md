@@ -1,5 +1,12 @@
 # <span style="color: #f37726;"><i class="fa-solid fa-angles-right"></i></span>　当事者の主張書面と認否
 
+
+## 19　第５回口頭弁論
+---
+<p>
+令和７年３月１９日　１３時１５分
+
+
 ## 18　原告第５準備書面
 ---
 <a name="dai5"></a>
@@ -962,28 +969,8 @@
 
 ## 17　第４回口頭弁論
 ---
-<div class="base table-card" style="margin-top: 1.6em;">
- <p class="card-text" style="margin-top: 1.6em;">
- <b>ＥＮＥＯＳ側が認めない事実</b>
- <p class="card-text hg-idt" style="margin-top: 1.6em;">
- 🔸調査報告（乙１０）について、調査報告がなされたこと自体が認識できない態様であること<a class="reference internal word" href="#dai4_221e">（第２の２ ⑴ エ）</a>
- <p class="card-text hg-idt">
- 🔸調査報告（乙１１）について、調査報告で告げられている「質問票」が特定できないこと<a class="reference internal word" href="#dai4_221o">（第２の２ ⑴ オ）</a>
- <p class="card-text hg-idt">
- 🔸本件豪州企業に対するＧＳＴの支払が契約内容に基づいていたか否かを調査しなかったという誤った事実を認識させる通知を行っていたこと<a class="reference internal word" href="#dai4_221ku">（第２の２ ⑴ ク）</a>
- <p class="card-text hg-idt">
- 🔸本件豪州企業に対するＧＳＴの支払は、原告の手続によって支払われたものであること<a class="reference internal word" href="#dai4_222i">（第２の２ ⑵ イ）</a>
- <p class="card-text hg-idt">
- 🔸被告が原告に対して本件豪州企業へのＧＳＴの支払がＧＳＴに関する定めのない契約に基づくものであると認識させる回答をしたこと<a class="reference internal word" href="#dai4_222u">（第２の２ ⑵ ウ）</a>
- <p class="card-text hg-idt">
- 🔸本件部長報告において報告された支払ったＧＳＴ分の「精算」は、実質、本件豪州企業から返金されたものであること<a class="reference internal word" href="#dai4_223e">（第２の２ ⑶ エ）</a>
- <p class="card-text hg-idt">
- 🔸本件部長報告において報告された「ＧＳＴの法改正」の存在が、オーストラリア税務局のウェブサイトで確認できないこと<a class="reference internal word" href="#dai4_223ki">（第２の２ ⑶ キ）</a>
- <p class="card-text hg-idt">
- 🔸本件部長報告において、「預り金」としての性質であることを報告していない点が、報告の内容を不確かにしていること<a class="reference internal word" href="#dai4_224u">（第２の２ ⑷ ウ）</a>
- <p class="card-text hg-idt" style="margin-bottom: 1.6em;">
- 🔸豪州子会社が豪州から還付を受けていないにもかかわらず、還付金として本社に送金していること<a class="reference internal word" href="#dai4_224e">（第２の２ ⑷ エ）</a>
-</div>
+<p>
+令和６年１２月２５日　１３時１５分
 
 ## 16　被告準備書面（５）
 ---
