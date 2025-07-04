@@ -52,7 +52,7 @@
 <p class="card-text pad1 hg-idt" style="margin-top: 1.6em;"><a class="reference internal text" href="#kouso1_matsu">
 文末脚注</a>
 ````
-<div>
+</div>
 <p style="margin-top: 1.6em;">
 <b>控訴理由書</b>
 <p>
