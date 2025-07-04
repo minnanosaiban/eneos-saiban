@@ -2,6 +2,57 @@
 
 ## 21　控訴理由書
 ---
+<div class="base" style="margin-top: 1.6em;">
+
+````{card}
+<p class="card-text" style="margin-top: 1.6em; text-align: center;">
+<b>控訴理由書　目次</b>
+<p class="card-text pad1 hg-idt" style="margin-top: 1.6em;"><a class="reference internal text" href="#kouso1_1">
+第１　はじめに</a>
+<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso1_2">
+第２　控訴の理由</a>
+<p class="card-text pad2 hg-idt"><a class="reference internal text" href="#kouso1_21">
+１　「調査結果等の通知」は法的義務であること</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_211">
+⑴　「調査結果等の通知」は、法令に基づく被控訴人の義務である</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_212">
+⑵　本件規程の解釈及び被控訴人自身の表明から導かれる義務及び責任</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_213">
+⑶　実名を開示して通報を行った者に対する義務の発生と合理的期待の形成</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_214">
+⑷　被控訴人等の対外的表明による合理的期待の形成</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_215">
+⑸　小括</a>
+<p class="card-text pad2 hg-idt"><a class="reference internal text" href="#kouso1_22">
+２　「調査結果等の通知」に違反する行為の存在</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_221">
+⑴　一審判決の読み替えによる誤り</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_222">
+⑵　通知義務は契約違反及びその違反のおそれにも及ぶ</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_223">
+⑶　本件返金措置及び本件契約締結は、本件規程に基づく対応策等である</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_224">
+⑷　本件規程に基づく是正措置及び再発防止策、又は対応策の不通知</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_225">
+⑸　小括</a>
+<p class="card-text pad2 hg-idt"><a class="reference internal text" href="#kouso1_23">
+３　「調査結果等の通知」に違反する行為が控訴人に及ぼした影響</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_231">
+⑴　控訴人の認められるべき法的利益</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_232">
+⑵　控訴人の法的利益の侵害</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_233">
+⑶　控訴人の心理的安全性の侵害</a>
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_234">
+⑷　小括</a>
+<p class="card-text pad1 hg-idt" style="margin-top: 1.6em;"><a class="reference internal text" href="#kouso1_3">
+第３　結論</a>
+<p class="card-text pad1 hg-idt" style="margin-top: 1.6em;"><a class="reference internal text" href="#kouso1_4">
+第４　控訴人の主張と一審判決の解釈との相違について</a>
+<p class="card-text pad1 hg-idt" style="margin-top: 1.6em;"><a class="reference internal text" href="#kouso1_matsu">
+文末脚注</a>
+````
+<div>
 <p style="margin-top: 1.6em;">
 <b>控訴理由書</b>
 <p>
