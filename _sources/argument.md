@@ -430,10 +430,10 @@
 以上
 
 
-## 20　2025年3月判決
+## 20　令和７年３月東京地裁判決
 ---
 <a name="judgment2025"></a>
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos_judgment_2025.03.31">ＰＤＦ</a>の用意があります。
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos_judgment_2025.03.31.pdf">ＰＤＦ</a>の用意があります。
 
 <p style="margin-top: 1.6em;">
 令和７年３月３１日判決言渡　同日原本領収　裁判所書記官
