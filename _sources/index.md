@@ -18,3 +18,5 @@
 <p><a href="https://minnanosaiban.github.io/eneos-saiban/judgment2022.html" class="arrow-link">
   <span class="arrow"><i class="fa-solid fa-angles-right"></i>　</span>2022年12月判決　山田悠一郎裁判官
 </a>
+
+##
