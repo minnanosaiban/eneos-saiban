@@ -5,7 +5,7 @@
 通報者の「正当な関心」が損なわれ、心理的安全性が侵害されたと主張し、東京簡裁に提訴しました。（のちに東京地裁に移送）
 
 
-## 本ウェブサイトは、裁判文書を全文を掲載しています。
+## 裁判文書全文
 
 <p style="margin-top: 1.6em;"><a href="https://minnanosaiban.github.io/eneos-saiban/argument.html" class="arrow-link">
   <span class="arrow"><i class="fa-solid fa-angles-right"></i>　</span>当事者の主張書面と認否
