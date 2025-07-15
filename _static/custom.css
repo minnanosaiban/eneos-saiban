@@ -29,7 +29,7 @@
 .footer, .bd-footer {
     display: none !important;
 }
-.bd-footer-content__inner {
+.bd-footer-content {
   display: none !important;
   }
 .md-content { /* 画面余白調整 */

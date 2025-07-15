@@ -46,11 +46,11 @@
 ⑶　控訴人の心理的安全性の侵害</a>
 <p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_234">
 ⑷　小括</a>
-<p class="card-text pad1 hg-idt" style="margin-top: 1.6em;"><a class="reference internal text" href="#kouso1_3">
+<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso1_3">
 第３　結論</a>
-<p class="card-text pad1 hg-idt" style="margin-top: 1.6em;"><a class="reference internal text" href="#kouso1_4">
+<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso1_4">
 第４　控訴人の主張と一審判決の解釈との相違について</a>
-<p class="card-text pad1 hg-idt" style="margin-top: 1.6em;"><a class="reference internal text" href="#kouso1_matsu">
+<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso1_matsu">
 文末脚注</a>
 ````
 </div>
