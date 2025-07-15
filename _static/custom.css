@@ -26,8 +26,11 @@
   margin-right: 0;
   margin-left: 0;
   }
-.bd-footer-content noprint {
-  display: none;
+.footer, .bd-footer {
+    display: none !important;
+}
+.bd-footer-content__inner {
+  display: none !important;
   }
 .md-content { /* 画面余白調整 */
   margin-bottom: 10rem;
