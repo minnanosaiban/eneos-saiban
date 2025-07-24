@@ -7570,13 +7570,13 @@
 <p  class="doc">
 以上
 </p>
-<p style="margin-top: 1.6em;">
+<p  class="doc">
 <b>証拠方法</b>
 </p>
 <p class="pad1 idt">
 「請求の原因」の事実を明らかにする書証は、被告が原告に対して、訴訟に関する行為について被告が原告に貸与するパソコン端末を使用することを認めた後、追って提出する。
 </p>
-<p style="margin-top: 1.6em;">
+<p  class="doc">
 <b>付属書類</b>
 </p>
 <p class="pad2 hg-idt">
