@@ -351,6 +351,8 @@ a.headerlink {
   text-emphasis-position: over;
 　}
 /* 追加）インデント設定 */
+.doc {
+  }
 .idt {
   text-indent:1em;
   }

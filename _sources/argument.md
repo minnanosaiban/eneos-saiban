@@ -3,69 +3,74 @@
 
 ## 21　控訴理由書
 ---
+<a name="kouso"></a>
 <div class="base" style="margin-top: 1.6em;">
 
 ````{card}
 <p class="card-text" style="margin-top: 1.6em; text-align: center;">
 <b>控訴理由書　目次</b>
-<p class="card-text pad1 hg-idt" style="margin-top: 1.6em;"><a class="reference internal text" href="#kouso1_1">
+<p class="card-text pad1 hg-idt" style="margin-top: 1.6em;"><a class="reference internal text" href="#kouso_1">
 第１　はじめに</a>
-<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso1_2">
+<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso_2">
 第２　控訴の理由</a>
-<p class="card-text pad2 hg-idt"><a class="reference internal text" href="#kouso1_21">
+<p class="card-text pad2 hg-idt"><a class="reference internal text" href="#kouso_21">
 １　「調査結果等の通知」は法的義務であること</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_211">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_211">
 ⑴　「調査結果等の通知」は、法令に基づく被控訴人の義務である</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_212">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_212">
 ⑵　本件規程の解釈及び被控訴人自身の表明から導かれる義務及び責任</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_213">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_213">
 ⑶　実名を開示して通報を行った者に対する義務の発生と合理的期待の形成</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_214">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_214">
 ⑷　被控訴人等の対外的表明による合理的期待の形成</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_215">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_215">
 ⑸　小括</a>
-<p class="card-text pad2 hg-idt"><a class="reference internal text" href="#kouso1_22">
+<p class="card-text pad2 hg-idt"><a class="reference internal text" href="#kouso_22">
 ２　「調査結果等の通知」に違反する行為の存在</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_221">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_221">
 ⑴　一審判決の読み替えによる誤り</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_222">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_222">
 ⑵　通知義務は契約違反及びその違反のおそれにも及ぶ</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_223">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_223">
 ⑶　本件返金措置及び本件契約締結は、本件規程に基づく対応策等である</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_224">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_224">
 ⑷　本件規程に基づく是正措置及び再発防止策、又は対応策の不通知</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_225">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_225">
 ⑸　小括</a>
-<p class="card-text pad2 hg-idt"><a class="reference internal text" href="#kouso1_23">
+<p class="card-text pad2 hg-idt"><a class="reference internal text" href="#kouso_23">
 ３　「調査結果等の通知」に違反する行為が控訴人に及ぼした影響</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_231">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_231">
 ⑴　控訴人の認められるべき法的利益</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_232">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_232">
 ⑵　控訴人の法的利益の侵害</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_233">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_233">
 ⑶　控訴人の心理的安全性の侵害</a>
-<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso1_234">
+<p class="card-text pad3 hg-idt"><a class="reference internal text" href="#kouso_234">
 ⑷　小括</a>
-<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso1_3">
+<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso_3">
 第３　結論</a>
-<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso1_4">
+<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso_4">
 第４　控訴人の主張と一審判決の解釈との相違について</a>
-<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso1_matsu">
+<p class="card-text pad1 hg-idt"><a class="reference internal text" href="#kouso_matsu">
 文末脚注</a>
 ````
 </div>
 <p style="margin-top: 1.6em;">
 <b>控訴理由書</b>
-<p>
+<p  class="doc">
 令和７年６月６日
-<p>
+</p>
+<p  class="doc">
 東京高等裁判所第７民事部　御中
+</p>
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
+</p>
+<p  class="doc">
 ≪ 中略 ≫
+</p>
 <p class="pad1 hg-idt">
-<a name="kouso1_1"></a>
+<a name="kouso_1"></a>
 <b>第１　はじめに</b>
 <p class="pad1 idt">
 本書では、令和６年（ワ）第２４７１８号の令和７年３月３１日判決については、「一審判決」と略して記載し、一審判決を引用する際には「一審判決〇頁」のように記載する。また、特に断らない限り、一審判決が用いたのと同様の用語及び本件規程（乙１）で定義された用語を用いる。
@@ -78,13 +83,13 @@
 <p class="pad1 idt">
 控訴人としては、社内文書を証拠として提出することが懲戒処分の対象となり得る旨の被控訴人の指摘を踏まえ、まずは、各事実関係について争いの有無を整理した別紙（文末脚注）を作成し、被控訴人の認否を確認した上で、必要に応じて追って証拠を提出する予定である。
 <p class="pad1 hg-idt">
-<a name="kouso1_2"></a>
+<a name="kouso_2"></a>
 <b>第２　控訴の理由</b>
 <p class="pad2 hg-idt">
-<a name="kouso1_21"></a>
+<a name="kouso_21"></a>
 <b>１　「調査結果等の通知」は法的義務であること</b>
 <p class="pad3 hg-idt">
-<a name="kouso1_211"></a>
+<a name="kouso_211"></a>
 <b>⑴　「調査結果等の通知」は、法令に基づく被控訴人の義務である</b>
 
 `````{margin} 
@@ -120,7 +125,7 @@
 <p class="pad3 idt">
 したがって、<u>内部通報制度における「調査結果等の通知」は、被控訴人自らが「法令に則した制度」と位置付けてる制度における法令に基づく被控訴人の義務である</u>。
 <p class="pad3 hg-idt">
-<a name="kouso1_212"></a>
+<a name="kouso_212"></a>
 <b>⑵　本件規程の解釈及び被控訴人自身の表明から導かれる義務及び責任</b>
 
 `````{margin} 
@@ -156,7 +161,7 @@
 <p class="pad3 idt">
 以上のとおり、<u>「調査結果等の通知」を行う義務及び責任については、法定指針及び指針の解説から導かれる解釈のみならず、従業員向け制度説明資料にも明示されており、被控訴人は、改正法の施行前から、「責任ある調査・フィードバック」を実施する責任を自らに課していたことが認められる</u>。
 <p class="pad3 hg-idt">
-<a name="kouso1_213"></a>
+<a name="kouso_213"></a>
 <b>⑶　実名を開示して通報を行った者に対する義務の発生と合理的期待の形成</b>
 
 `````{margin} 
@@ -197,10 +202,10 @@
 <p class="pad3 idt">
 仮に、被控訴人に対して実名通報者への「調査結果等の通知」を行う義務が認められないとすれば、通報者があえて実名を開示して通報を行うことに対する合理的な動機は失われることになる。
 <p class="pad3 hg-idt">
-<a name="kouso1_214"></a>
+<a name="kouso_214"></a>
 <b>⑷　被控訴人等の対外的表明による合理的期待の形成</b>
 <p class="pad4 hg-idt">
-<a name="kouso1_214a"></a>
+<a name="kouso_214a"></a>
 <b>ア　被控訴人等が表明する「ガバナンス・コードの実践」について</b>
 
 `````{margin} 
@@ -225,7 +230,7 @@
 <p class="pad4 idt">
 したがって、<u>ガバナンス・コードの全原則への応諾を社内外に対して自ら宣言している被控訴人は、原則２－５に基づき、通報者が制度を信頼して通報を行えるよう適切に「調査結果等の通知」を行う責任を負う立場にある</u>。
 <p class="pad4 hg-idt">
-<a name="kouso1_214i"></a>
+<a name="kouso_214i"></a>
 <b>イ　被控訴人等が表明する「コンプライアンスの徹底」について</b>
 
 `````{margin} 
@@ -248,7 +253,7 @@
 <p class="pad4 idt">
 したがって、<u>被控訴人自らが社内外に対し、「コンプライアンスの徹底」を表明したことにより、通報者が適切な「調査結果等の通知」を受けられると信頼することは、十分な根拠を有する自然な期待であるといえる</u>。
 <p class="pad4 hg-idt">
-<a name="kouso1_214u"></a>
+<a name="kouso_214u"></a>
 <b>ウ　被控訴人等が表明する「心理的安全性の確保」について</b>
 
 `````{margin} 
@@ -300,7 +305,7 @@
 <p class="pad4 idt">
 このように、<u>被控訴人自身が、内部通報制度を従業員との「主なコミュニケーション手段」と位置付け、その制度運用を通じて従業員の心理的安全性を確保する姿勢を社内外に対して示している以上、通報者が制度を利用することにより、通報者が適切な「調査結果等の通知」を受けられるとの合理的期待を抱くのは当然である</u>。
 <p class="pad4 hg-idt">
-<a name="kouso1_214e"></a>
+<a name="kouso_214e"></a>
 <b>エ　合理的期待の形成</b>
 
 `````{margin} 
@@ -315,7 +320,7 @@
 <p class="margin-set"><span class="margin-text">●「 ⑸　小括」について、<span class="strong-rd">争う</span>。
 `````
 <p class="pad3 hg-idt">
-<a name="kouso1_215"></a>
+<a name="kouso_215"></a>
 <b>⑸　小括</b>
 <p class="pad3 idt">
 以上により、改正法の施行前後を通じて、
@@ -326,10 +331,10 @@
 <p class="pad3">
 との事情に照らせば、被控訴人には、実名通報者に対して「調査結果等の通知」を行う法的義務が認められるというべきである。
 <p class="pad2 hg-idt">
-<a name="kouso1_22"></a>
+<a name="kouso_22"></a>
 <b>２　「調査結果等の通知」に違反する行為の存在</b>
 <p class="pad3 hg-idt">
-<a name="kouso1_221"></a>
+<a name="kouso_221"></a>
 <b>⑴　一審判決の読み替えによる誤り</b>
 
 `````{margin} 
@@ -385,7 +390,7 @@
 <p class="pad3 idt">
 「還付を受けないまま」との状態が不正行為等として評価され得るのは、控訴人が上司Ａに対してＧＳＴの支払（以下「ＧＳＴ支払」という。また、本件通報の内容であり、かつ本件の発端となったＧＳＴの支払を以下「本件ＧＳＴ支払」という。）について相談した際に、上司Ａの対応が、行動基準１１ ⑶（「私たちは、業務上必要なすべての記録および報告を、事実に基づき、正確に、遺漏なく、かつ適時に作成します。」）に違反していたか否かが判断される場合である。本件調査報告の後、上司Ａらは、控訴人に対し、ＧＳＴの還付に関する情報を共有したが、その「還付」の対象に本件ＧＳＴ支払が含まれていたか否かは不明確であった（甲２０）。
 <p class="pad3 hg-idt">
-<a name="kouso1_222"></a>
+<a name="kouso_222"></a>
 <b>⑵　通知義務は契約違反及びその違反のおそれにも及ぶ</b>
 
 `````{margin} 
@@ -402,7 +407,7 @@
 <p class="pad3 idt">
 したがって、<u>「調査結果等の通知」を行う義務は、対象事実が法令等に違反するおそれのある場合にも生じるものであり、その義務の有無は、対象事実が法令違反であるか、社内規程違反又は契約違反であるかという違反類型の違いによって左右されるものではない</u>。
 <p class="pad3 hg-idt">
-<a name="kouso1_223"></a>
+<a name="kouso_223"></a>
 <b>⑶　本件返金措置及び本件契約締結は、本件規程に基づく対応策等である</b>
 
 `````{margin} 
@@ -448,7 +453,7 @@
 <p class="pad3 idt">
 以上の経緯からすれば、<u>本件返金措置及び本件契約締結は、いずれも本件規程に基づく是正措置及び再発防止策、又は対応策に該当する</u>。
 <p class="pad3 hg-idt">
-<a name="kouso1_224"></a>
+<a name="kouso_224"></a>
 <b>⑷　本件規程に基づく是正措置及び再発防止策、又は対応策の不通知</b>
 
 `````{margin} 
@@ -507,7 +512,7 @@
 <p class="pad3 idt">
 ちなみに、一審判決は、「調査結果等に対する不服申立てに関する規定が置かれていない」と判示しているが、本件規程３．６ ⑴ エに基づく通知事項は、同アないしウに基づく通知事項と一体として実名通報者に通知されるべきものであり、「フォローアップの実施」についても同３．９に規定している。一審判決はこの点を考慮していない。したがって、「不服申立てに関する規定が置かれていない」という状態は、通知を受ける法的利益の有無を否定する判断の一要素にはなり得ない。なお、被控訴人は、本件各調査報告において、同３．６ ⑴ エに基づく通知事項の通知も行っていない（乙１１、乙１２）。
 <p class="pad3 hg-idt">
-<a name="kouso1_225"></a>
+<a name="kouso_225"></a>
 <b>⑸　小括</b>
 
 `````{margin} 
@@ -528,10 +533,10 @@
 <p class="pad3 idt">
 したがって、被控訴人に本件規程に基づく「調査結果等の通知」に違反する行為が存在する。
 <p class="pad2 hg-idt">
-<a name="kouso1_23"></a>
+<a name="kouso_23"></a>
 <b>３　「調査結果等の通知」に違反する行為が控訴人に及ぼした影響</b>
 <p class="pad3 hg-idt">
-<a name="kouso1_231"></a>
+<a name="kouso_231"></a>
 <b>⑴　控訴人の認められるべき法的利益</b>
 
 `````{margin} 
@@ -587,7 +592,7 @@
 <p class="pad3 idt">
 前記２の ⑶ で述べたとおり、本件通報の内容に関して具体的対応が講じられていた以上、あえて実名を開示して通報を行った控訴人には、その講じられた具体的対応（本件返金措置及び本件契約締結）とともにＧＳＴ支払の適正性に関する通知を受ける法的利益があると解すべきである。
 <p class="pad3 hg-idt">
-<a name="kouso1_232"></a>
+<a name="kouso_232"></a>
 <b>⑵　控訴人の法的利益の侵害</b>
 
 `````{margin} 
@@ -609,7 +614,7 @@
 <p class="pad3 idt">
 このように、控訴人は、本件調査報告においてのみならず、その後においても、ＧＳＴ支払の適正性及びこれに関する本件規程に基づく是正措置及び再発防止策、又は対応策（本件返金措置及び本件契約締結）に関する通知を受ける法的利益を引き続き侵害されている。
 <p class="pad3 hg-idt">
-<a name="kouso1_233"></a>
+<a name="kouso_233"></a>
 <b>⑶　控訴人の心理的安全性の侵害</b>
 
 `````{margin} 
@@ -628,7 +633,7 @@
 <p class="margin-set"><span class="margin-text">●「 ⑷　小括」について、<span class="strong-rd">争う</span>。
 `````
 <p class="pad3 hg-idt">
-<a name="kouso1_234"></a>
+<a name="kouso_234"></a>
 <b>⑷　小括</b>
 <p class="pad3 idt">
 以上により、被控訴人が、本件調査報告において、控訴人に対し、「コンプライアンス違反となる事項ではない」と判断した対象事項の具体的内容を明らかにせず、実際に実行した本件規程に基づく是正措置及び再発防止策、又は対応策（本件返金措置及び本件契約締結）を通知しなかったことは、
@@ -636,12 +641,12 @@
 <p class="pad3 idt">
 さらに、このような被控訴人の対応は、内部通報制度に対する控訴人の信頼を損ない、ひいては心理的安全性をも損なう結果をもたらしたものと評価すべきである。
 <p class="pad2 hg-idt">
-<a name="kouso1_3"></a>
+<a name="kouso_3"></a>
 <b>第３　結論</b>
 <p class="pad2 idt">
 以上により、原判決は取消されるべきであり、さらに相当の裁判を求める。
 <p class="pad2 hg-idt">
-<a name="kouso1_4"></a>
+<a name="kouso_4"></a>
 <b>第４　控訴人の主張と一審判決の解釈との相違について</b>
 <p class="pad2 idt">
 一審判決では、控訴人の主張に対して控訴人の意図とは異なる解釈がなされている箇所が見受けられる。以下では、その具体的な相違点を示す。
@@ -720,7 +725,7 @@
 
 ```
 </div>
-<p>
+<p  class="doc">
 以上
 
 
@@ -731,31 +736,31 @@
 
 <p style="margin-top: 1.6em;">
 令和７年３月３１日判決言渡　同日原本領収　裁判所書記官
-<p>
+<p  class="doc">
 令和６年（ワ）第■■■■■号　損害賠償請求事件
-<p>
+<p  class="doc">
 口頭弁論終結日　令和７年３月１９日
-<p>
+<p  class="doc">
 判　決
-<p>
+<p  class="doc">
 東京都千代田区大手町１丁目１番２号　ＥＮＥＯＳ株式会社内
-<p>
+<p  class="doc">
 原　告　■■■■
-<p>
+<p  class="doc">
 東京都千代田区大手町１丁目１番２号
-<p>
+<p  class="doc">
 被　告　ＥＮＥＯＳ株式会社
-<p>
+<p  class="doc">
 同代表者代表取締役　山口敦治
-<p>
+<p  class="doc">
 同訴訟代理人弁護士　■■■■
-<p>
+<p  class="doc">
 主　文
 <p class="pad2 hg-idt">
 １　原告の請求をいずれも棄却する
 <p class="pad2 hg-idt">
 ２　訴訟費用は、原告の負担とする。
-<p>
+<p  class="doc">
 事実及び理由
 <p class="pad1 hg-idt">
 第１　請求
@@ -917,14 +922,14 @@
 第４　結論
 <p class="pad1 idt">
 よって、原告の請求にはいずれも理由がないから棄却することとし、主文のとおり判決する。
-<p>
+<p  class="doc">
 東京地方裁判所民事第１９部
-<p>
+<p  class="doc">
 裁判官　坂巻陽士
 
 ## 19　第５回口頭弁論
 ---
-<p>
+<p  class="doc">
 令和７年３月１９日　１３時１５分
 
 
@@ -1035,13 +1040,13 @@
 </div>
 <p style="margin-top: 1.6em;">
 <b>原告第５準備書面</b>
-<p>
+<p  class="doc">
 令和７年１月３０日
-<p>
+<p  class="doc">
 東京地方裁判所民事部民事第１９部に係　御中
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
+<p  class="doc">
 ≪ 中略 ≫
 <p class="pad1 hg-idt">
 <a name="dai5_1"></a>
@@ -1813,7 +1818,7 @@
 <b>１２　同第５の２ ⑶ エ（２４頁）について</b>
 <p class="pad2 idt">
 「甲第２０号証の」以下について、否認する。既に述べたとおり（ 前記第２の８ ⑵ ）、本件部長報告において「精算」と表現された措置は、実質的に「返金」の性質を有する措置であるにもかかわらず、「返金」の性質であることを伏せているため、ＧＳＴの支払が行われていた原因が曖昧化されている。
-<p>
+<p  class="doc">
 以上
 <p style="margin-top: 1.6em;">
 <b>文末脚注</b>
@@ -1890,7 +1895,7 @@
 
 ## 17　第４回口頭弁論
 ---
-<p>
+<p  class="doc">
 令和６年１２月２５日　１３時１５分
 
 ## 16　被告準備書面（５）
@@ -1981,13 +1986,13 @@
 </div>
 <p style="margin-top: 1.6em;">
 <b>被告準備書面（５）</b>
-<p>
+<p  class="doc">
 令和６年１２月１７日
-<p>
+<p  class="doc">
 東京地方裁判所民事第１９部に係　御中
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
+<p  class="doc">
 ≪ 中略 ≫
 <p class="pad1 hg-idt">
 <a name="hikoku5_1"></a>
@@ -2454,7 +2459,7 @@
 <b>３　第２の３（前回訴訟の．．．許される。）（１３頁以下）について</b>
 <p class="pad2 idt">
 争う。
-<p>
+<p  class="doc">
 以上
 
 ## 15　文書送付嘱託申立書
@@ -2463,9 +2468,9 @@
 
 <p style="margin-top: 1.6em;">
 <b>文書送付嘱託申立書</b>
-<p>
+<p  class="doc">
 令和６年１１月２５日
-<p>
+<p  class="doc">
 東京地方裁判所民事部民事第１９部に係　御中
 <p class="idt">
 原告は、頭書事件について、次のとおり文書送付嘱託を申し立てる。
@@ -2561,7 +2566,7 @@
 被告が原告に対して共有した情報の不正確性は、原告に「本件豪州企業に対するＧＳＴの支払が契約内容に基づいていたか否かを調査しなかった」と誤認させる結果をもたらした。このことは、前回の訴訟において原告が「調査によって確認されている法令等に違反する事実又は違反するおそれのある事実に対する対応をしなかったこと」との主張を構築できなかった原因の一つである。
 <p class="pad2 idt">
 上記１に示す資料を通じて、被告の行為が行動基準第１１項 ⑶ に違反するものであったか否かを確認することが可能となる。また、これにより、被告の通報者に対する通知内容が行動基準及び被告等に適用されるべき規程類に適合していたかを立証できる。
-<p>
+<p  class="doc">
 以上
 
 ## 14　求釈明申立書
@@ -2570,9 +2575,9 @@
 
 <p style="margin-top: 1.6em;">
 <b>求釈明申立書</b>
-<p>
+<p  class="doc">
 令和６年１１月２５日
-<p>
+<p  class="doc">
 東京地方裁判所民事部民事第１９部に係　御中
 <p class="idt">
 当初事件について、原告は、被告に対し、次のとおり釈明を求める。
@@ -2653,7 +2658,7 @@
 被告と本件豪州企業との間で平成２９年５月の本件豪州企業の請求から同年１月から４月のＧＳＴ支払分を差し引く形で精算した理由について、本件部長報告においては、被告と本件豪州企業との契約における定めによるものではなく、「ＧＳＴの法改正」の存在によるものであると報告している。（甲２０）
 <p class="pad2 idt">
 本件部長報告における「ＧＳＴの法改正」に該当する法改正が特定できないという原告の主張に対し、被告は、「否認する」と主張するものの、依然として「ＧＳＴの法改正」について具体的に示されていないことから、これを明らかにされたい。（注<sup>7</sup>）
-<p>
+<p  class="doc">
 以上
 
 ## 13　原告第４準備書面
@@ -2700,13 +2705,13 @@
 </div>
 <p style="margin-top: 1.6em;">
 <b>原告第４準備書面</b>
-<p>
+<p  class="doc">
 令和６年１１月２５日
-<p>
+<p  class="doc">
 東京地方裁判所民事部民事第１９部に係　御中
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
+<p  class="doc">
 ≪ 中略 ≫
 <p class="pad1 hg-idt">
 <a name="dai4_1"></a>
@@ -3215,25 +3220,25 @@
 を同時に主張して一回的解決を図ることは困難である。
 <p class="pad3 idt">
 よって、前回訴訟の確定判決の既判力が本件訴訟に及ばす、実質的な蒸し返しにも当たらない。また、本件訴訟における原告の主張は、信義則に反せず、許される。
-<p>
+<p  class="doc">
 以上
 
 ## 12　第３回口頭弁論
 ---
-<p>
+<p  class="doc">
 令和６年８月１４日　１１時３０分
 
 ## 11　被告準備書面（４）
 ---
-<p>
+<p  class="doc">
 <b>被告準備書面（４）</b>
-<p>
+<p  class="doc">
 令和６年８月９日
-<p>
+<p  class="doc">
 東京簡易裁判所民事第５室６係Ｂ　御中
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
+<p  class="doc">
 ≪ 中略 ≫
 <p class="pad1 hg-idt">
 <b>第１　緒言</b>
@@ -3431,15 +3436,15 @@
 </div>
 <p style="margin-top: 1.6em;">
 <b>原告第３準備書面</b>
-<p>
+<p  class="doc">
 令和６年８月９日
-<p>
+<p  class="doc">
 東京簡易裁判所民事第５室６係Ｂ　御中
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
+<p  class="doc">
 ≪ 中略 ≫
-<p>
+<p  class="doc">
 <a name="dai3_0"></a>
 <b>はじめに</b>
 <p class="pad1 idt">
@@ -3756,20 +3761,20 @@
 しかし、原告第２準備書面において主張した上記の部分は、それにつき、被告が直ちに認否できない性質のものではない。また、原告第２準備書面において主張した行動基準は、行動基準は、本件規程の前提であり、このことは、原告が既に述べ、被告も認めるとおりである。（注<sup>21</sup>）
 <p class="pad2 idt">
 本来なら、紛争の一回的解決を図ることが理想ではあるが、法律構成の主張の追加を理由に却下されることとなれば、原告は、却下される法律構成で、別途、訴訟を提起することを検討せざるを得ない。
-<p>
+<p  class="doc">
 以上
 
 ## 09　被告準備書面（３）
 ---
-<p>
+<p  class="doc">
 <b>被告準備書面（３）</b>
-<p>
+<p  class="doc">
 令和６年７月２５日
-<p>
+<p  class="doc">
 東京簡易裁判所民事第５室６係Ｂ　御中
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
+<p  class="doc">
 ≪ 中略 ≫
 <p class="pad1 hg-idt">
 <a name="hikoku3_1"></a>
@@ -4390,7 +4395,7 @@
 <b>第３　原告第２準備書面第２による「補正」後の原告の主張に対する認否</b>
 <p class="pad1 idt">
 原告は、原告第２準備書面の第２（被告準備書面（２）の第２に対する認否）（２６頁以下）の中で、原告第１準備書面における原告の主張の一部を「部分的に補正」しているが、被告準備書面（２）における被告の認否及び主張に変更はない。
-<p>
+<p  class="doc">
 以上
 
 ## 08　原告第２準備書面
@@ -4433,15 +4438,15 @@
 </div>
 <p style="margin-top: 1.6em;">
 <b>原告第２準備書面</b>
-<p>
+<p  class="doc">
 令和６年７月１９日
-<p>
+<p  class="doc">
 東京簡易裁判所民事第５室６係Ｂ　御中
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
+<p  class="doc">
 ≪ 中略 ≫
-<p>
+<p  class="doc">
 <a name="dai2_0">
 </a><b>はじめに</b>
 <p class="pad1 idt">
@@ -5234,25 +5239,25 @@
 
 ## 07　第２回口頭弁論
 ---
-<p>令和６年５月２７日　１１時３０分
+<p  class="doc">令和６年５月２７日　１１時３０分
 
 ## 06　被告準備書面（２）
 ---
-<p>
+<p  class="doc">
 <b>被告準備書面（２）</b>
-<p>
+<p  class="doc">
 令和６年５月２３日
-<p>
+<p  class="doc">
 東京簡易裁判所民事第５室６係Ｂ　御中
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
+<p  class="doc">
 ≪ 中略 ≫
-<p>
+<p  class="doc">
 <a name="hikoku2_1"></a>
 <b>第１　緒言</b>
 <p class="pad1 idt">本書に用いる用語の意味は、本書に別段の定義のない限り、被告の令和６年４月１９日付の「被告準備書面（１）」（以下「<b>被告準備書面（１）</b>」という。）までの被告の主張書面に定義するところによる。
-<p><a name="hikoku2_2"></a>
+<p  class="doc"><a name="hikoku2_2"></a>
 <b>第２　原告第１準備書面第２（原告の主張）に対する認否</b>
 <p class="pad1 idt">
 原告の令和６年５月１７日付の「原告第１準備書面」（以下「<b>原告第１準備書面</b>」という。）の第２における原告の主張に対する被告の認否は、以下のとおりである。
@@ -5593,7 +5598,7 @@
 <b>⑺　第２の２（７）（被告の責任）（２２頁）について</b>
 <p class="pad3 idt">
 争う。
-<p>
+<p  class="doc">
 以上
 
 ## 05　原告第１準備書面
@@ -5634,13 +5639,13 @@
 </div>
 <p style="margin-top: 1.6em;">
 <b>原告第１準備書面</b>
-<p>
+<p  class="doc">
 令和６年５月１７日
-<p>
+<p  class="doc">
 東京簡易裁判所民事第５室６係Ｂ　御中
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
+<p  class="doc">
 ≪ 中略 ≫
 <p class="pad1 hg-idt">
 <a name="dai1_1"></a>
@@ -6468,20 +6473,20 @@
 <b>第４　結語</b>
 <p class="pad1 idt">
 上記９頁の表４「本件規程に定める事項と当事者の主張との対応表」のとおり、被告の主張は、不明な点や曖昧な主張が散見されている。裁判所におかれましては、適切な釈明権の行使をお願い申し上げる。
-<p>以上
+<p  class="doc">以上
 
 ## 04　第１回口頭弁論
 ---
-<p>
+<p  class="doc">
 令和６年４月２２日　１１時３０分
 
 ## 03　被告準備書面（１）
 ---
-<p>
+<p  class="doc">
 <b>被告準備書面（１）</b>
-<p>
+<p  class="doc">
 令和６年４月１９日
-<p>
+<p  class="doc">
 東京簡易裁判所民事第５室６係Ｂ　御中
 <p class="pad1 idt">
 　本書に用いる用語の意味は、本書に別段の定義のない限り、被告の令和６年４月１５日付の「答弁書」（以下「<b>答弁書</b>」という。）に定義するところによる。
@@ -6512,13 +6517,13 @@
 </div>
 <p style="margin-top: 1.6em;">
 <b>答弁書</b>
-<p>
+<p  class="doc">
 令和６年４月１５日
-<p>
+<p  class="doc">
 東京簡易裁判所民事第５室６係Ｂ　御中
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
+<p  class="doc">
 ≪ 中略 ≫
 <p class="pad1 hg-idt">
 <a name="toben_1"></a>
@@ -6538,7 +6543,7 @@
 ２　訴訟費用は原告の負担とする。
 <p class="pad1">
 との判決を求める。
-<p><a name="toben_3"></a>
+<p  class="doc"><a name="toben_3"></a>
 <b>第３　被告の主張</b>
 
 `````{margin} 
@@ -6726,7 +6731,7 @@
 <b>７　結論（被告の主張）</b>
 <p class="pad2 idt">
 以上からすると、前記４により、<b>本件訴訟における原告の訴えは、不適法として却下されるべき</b>であり、そうでなくても、前記３、５又は６により、<b>本件訴訟における原告の請求は、理由がないものとして棄却されるべき</b>である。
-<p><a name="toben_4"></a>
+<p  class="doc"><a name="toben_4"></a>
 <b>第４　訴状第２（請求の原因）（２頁以下）に対する認否</b>
 <p class="pad2 hg-idt">
 <a name="toben_41"></a>
@@ -6954,7 +6959,7 @@
 <b>６　第２の６（原告の損害）（１３頁）について</b>
 <p class="pad2 idt">
 不知である。
-<p><a name="toben_5"></a>
+<p  class="doc"><a name="toben_5"></a>
 <b>第５　訴状第３（まとめ）（１３頁）に対する認否</b>
 <p class="pad1 idt">
 争う。
@@ -6963,13 +6968,13 @@
 <p class="margin-set"><span class="margin-text"><b>原告第１準備書面第３の８ ⑵</b>
 <p class="margin-set"><span class="margin-text"><b>● 「前回訴訟の」以下</b>、<span class="strong-rd">争う</span>。
 `````
-<p><b><a name="toben_6">
+<p  class="doc"><b><a name="toben_6">
 </a>第６　結語</b>
 <p class="pad1 idt">
 前回訴訟の確定判決が正当に認定及び判断しているとおり、被告は、原告による本件通報及び追加通報のいずれについても、本件内部通報制度に基づいて極めて真摯かつ丁寧に対応しており（注２２）、当然のことながら本件規程にも何ら違反していない（注２３）。
 <p class="pad1 idt">
 本件訴訟における原告の訴えが不適法であること及び原告の請求に理由がないことは、いずれも明白であるから、被告としては、貴庁において、速やかに弁論を終結し、速やかに訴え却下又は請求棄却の判決を下されるよう、強く要望するものである。
-<p>
+<p  class="doc">
 以上
 
 ## 01　訴状
@@ -6989,21 +6994,55 @@
 <p class="card-text pad2 hg-idt"><a class="reference internal text" href="#sojou_3">第３　まとめ</a>
 ````  
 </div> 
-<p style="margin-top: 1.6em;"><a name="sojou"></a>
+<p style="margin-top: 1.6em;">
+<a name="sojou"></a>
 <b>訴状</b>
-<p>
+</p>
+<p  class="doc">
 令和６年２月１９日
-<p>
+</p>
+<p  class="doc">
 東京簡易裁判所　御中
+</p>
 <p style="margin-top: 1.6em;">
 <b>目次</b>
-<p>
-≪ 中略 ≫
-<p><a name="sojou_1"></a>
+</p>
+<p class="pad1 idt">
+<b>訴状　目次</b>
+</p>
+<p class="pad1 idt">
+第１　請求の趣旨
+</p>
+<p class="pad1 idt">
+第２　請求の原因
+</p>
+<p class="pad2 idt">
+１　用語の意味
+</p>
+<p class="pad2 idt">
+２　当事者
+</p>
+<p class="pad2 idt">
+３　被告における業務の適正等を確保するための体制
+</p>
+<p class="pad2 idt">
+４　経緯
+</p>
+<p class="pad2 idt">
+５　被告の本件規程違反の存在
+</p>
+<p class="pad2 idt">
+６　原告の損害
+</p>
+<p class="pad1 idt">
+第３　まとめ
+</p>
+<p  class="doc">
+<a name="sojou_1"></a>
 <b>第１　請求の趣旨</b>
 <p class="pad1 idt">
 被告は、原告に対し、金１円の金員を支払え。
-<p><a name="sojou_2"></a>
+<p  class="doc"><a name="sojou_2"></a>
 <b>第２　請求の原因</b>
 <p class="pad2 hg-idt"><a name="sojou_21"></a>
 <b>１　用語の意味</b>
@@ -7447,11 +7486,11 @@
 `````{margin} 
 <p class="margin-set"><span class="margin-text"><b>● 「よって」以下</b>、<span class="strong-rd">争う</span>。
 `````
-<p><a name="sojou_3"></a>
+<p  class="doc"><a name="sojou_3"></a>
 <b>第３　まとめ</b>
 <p class="pad1 idt">
 よって、被告について、民法第４１５条の債務不履行に基づく責任又は民法第７０９条の不法行為に基づく責任が成立し、原告は、被告に対して、１円の支払いを求める。
-<p>
+<p  class="doc">
 以上
 <p style="margin-top: 1.6em;">
 <b>証拠方法</b>
