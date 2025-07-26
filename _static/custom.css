@@ -298,6 +298,30 @@ a.reference.internal.word {
 a.reference.internal.word:hover {
   text-decoration-thickness: 1.5px;
   }
+/* 色付き下線付きのテキストのホバーでテキストの色が変化し、矢印が動く */
+.arrow-link {
+  display: inline-block;
+  color: var(--md-typeset-color) !important;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  text-decoration: underline;
+  text-underline-offset: 8px;
+  text-decoration-color: var(--md-main1-color);
+  text-decoration-thickness: 1px;
+}
+.arrow-link:hover {
+  color: var(--md-typeset-color) !important;  
+  text-decoration-thickness: 1.5px;
+  font-weight: 700 !important;
+}
+.arrow-link .arrow {
+  color: var(--md-main1-color);  
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+.arrow-link:hover .arrow {
+  transform: translateX(8px);
+  }
 /* ナビゲーションの装飾 */
 .toc-entry a.nav-link.active {
   background-color: transparent;
@@ -387,6 +411,24 @@ a.headerlink {
   padding-left:1em;
   text-indent:-1em;
   }  
+
+/* カード */
+.card_01 {
+  border: 1px solid #ddd;
+  border-radius: 0;
+  padding: 1.6rem;
+  box-shadow: none;
+  width: 100%;
+  font-size: 16px !important;
+  line-height: 2.4;
+  margin-top: 2.4em;
+  margin-bottom: 2.4em;
+}
+@media only screen and (max-width: 767px) {
+  card_01 {
+  padding: 0.8rem;
+  }
+  }
 
 @media only screen and (max-width: 767px) {
   h1 {
