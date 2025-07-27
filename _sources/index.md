@@ -8,15 +8,15 @@
 ## 裁判文書全文
 
 <p style="margin-top: 1.6em;"><a href="https://minnanosaiban.github.io/eneos-saiban/argument.html" class="arrow-link">
-  <span class="arrow"><i class="fa-solid fa-angles-right"></i>　</span>当事者の主張書面と認否
+  <span class="arrow"><i class="fa-solid fa-angles-right" style="color: #f37726;"></i>　</span>当事者の主張書面と認否
 </a>
 
 <p><a href="https://minnanosaiban.github.io/eneos-saiban/judgment2025.html" class="arrow-link">
-  <span class="arrow"><i class="fa-solid fa-angles-right"></i>　</span>2025年3月判決　坂巻陽士裁判官
+  <span class="arrow"><i class="fa-solid fa-angles-right" style="color: #f37726;"></i>　</span>2025年3月判決　坂巻陽士裁判官
 <p></a>
 
 <p><a href="https://minnanosaiban.github.io/eneos-saiban/judgment2022.html" class="arrow-link">
-  <span class="arrow"><i class="fa-solid fa-angles-right"></i>　</span>2022年12月判決　山田悠一郎裁判官
+  <span class="arrow"><i class="fa-solid fa-angles-right" style="color: #f37726;"></i>　</span>2022年12月判決　山田悠一郎裁判官
 </a>
 
 ##
