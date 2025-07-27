@@ -5,8 +5,8 @@
 ## 24　控訴理由補充書（２）
 ---
 <a name="hoju2"></a>
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="★★★">ＰＤＦ</a>の用意があります。
-<div class="base" style="margin-top: 1.6em;">
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/24_控訴理由補充書（２）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
+<div class="base">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>控訴理由補充書（２）目次</b>
@@ -149,8 +149,8 @@
 ## 23　控訴理由補充書（１）
 ---
 <a name="hoju1"></a>
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="★★★">ＰＤＦ</a>の用意があります。
-<div class="base" style="margin-top: 1.6em;">
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/23_控訴理由補充書（１）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
+<div class="base">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>控訴理由補充書（１）目次</b>
@@ -1113,9 +1113,8 @@
 ## 21　控訴理由書
 ---
 <a name="kouso"></a>
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="★★★">ＰＤＦ</a>の用意があります。
-<div class="base" style="margin-top: 1.6em;">
-
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/21_控訴理由書_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
+<div class="base">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>控訴理由書　目次</b>
@@ -2032,9 +2031,8 @@
 ## 18　原告第５準備書面
 ---
 <a name="dai5"></a>
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-genkoku5.pdf">ＰＤＦ</a>の用意があります。
-<div class="base" style="margin-top: 1.6em;">
-
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/18_原告第５準備書面_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
+<div class="base">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>原告第５準備書面　目次</b>
@@ -2997,6 +2995,7 @@
 ## 16　被告準備書面（５）
 ---
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-hikoku5.pdf">ＰＤＦ</a>の用意があります。
+
 <div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
@@ -3559,8 +3558,7 @@
 
 ## 15　文書送付嘱託申立書
 ---
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-souhusyokutaku_2024.11.25.pdf">ＰＤＦ</a>の用意があります。
-
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/15_文書送付嘱託申立書_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <p style="margin-top: 1.6em;">
 <b>文書送付嘱託申立書</b>
 <p  class="doc">
@@ -3666,8 +3664,7 @@
 
 ## 14　求釈明申立書
 ---
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-kyusyakumei_2024.11.25.pdf">ＰＤＦ</a>の用意があります。
-
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/14_求釈明申立書_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <p style="margin-top: 1.6em;">
 <b>求釈明申立書</b>
 <p  class="doc">
@@ -3758,8 +3755,8 @@
 
 ## 13　原告第４準備書面
 ---
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-genkoku4.pdf">ＰＤＦ</a>の用意があります。
-<div class="base" style="margin-top: 1.6em;">
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/13_原告第４準備書面_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
+<div class="base">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>原告第４準備書面　目次</b>
@@ -4493,6 +4490,7 @@
 
 ## 10　原告第３準備書面
 ---
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/10_原告第３準備書面_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <div class="base">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
@@ -5493,6 +5491,7 @@
 
 ## 08　原告第２準備書面
 ---
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/08_原告第２準備書面_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <div class="base">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
@@ -6694,6 +6693,7 @@
 
 ## 05　原告第１準備書面
 ---
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/05_原告第１準備書面_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <div class="base">
 <div class="card_01">
 <p class="card-text" style="text-align: center;"><b>原告第１準備書面　目次</b>
@@ -8066,6 +8066,7 @@
 
 ## 01　訴状
 ---
+<a name="sojou"></a>
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/01_訴状_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <div class="base">
 <div class="card_01">
@@ -8082,7 +8083,6 @@
 </div>
 </div> 
 <p style="margin-top: 1.6em;">
-<a name="sojou"></a>
 <b>訴状</b>
 </p>
 <p  class="doc">
