@@ -8066,6 +8066,7 @@
 
 ## 01　訴状
 ---
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/01_訴状_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <div class="base">
 <div class="card_01">
 <p class="card-text" style="text-align: center;"><b>訴状　目次</b>
