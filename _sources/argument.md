@@ -1,12 +1,11 @@
 # <span style="color: #f37726;"><i class="fa-solid fa-angles-right"></i></span>　当事者の主張書面と認否
 
-ＰＤＦは、準備中です。
 
 ## 24　控訴理由補充書（２）
 ---
 <a name="hoju2"></a>
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/24_控訴理由補充書（２）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<div class="base">
+<div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>控訴理由補充書（２）目次</b>
@@ -151,7 +150,7 @@
 ---
 <a name="hoju1"></a>
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/23_控訴理由補充書（１）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<div class="base">
+<div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>控訴理由補充書（１）目次</b>
@@ -1115,7 +1114,7 @@
 ---
 <a name="kouso"></a>
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/21_控訴理由書_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<div class="base">
+<div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>控訴理由書　目次</b>
@@ -2039,7 +2038,6 @@
 ---
 <a name="judgment2025"></a>
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos_judgment_2025.03.31.pdf">ＰＤＦ</a>の用意があります。
-
 <p style="margin-top: 1.6em;">
 令和７年３月３１日判決言渡　同日原本領収　裁判所書記官
 <p  class="doc">
@@ -2243,7 +2241,7 @@
 ---
 <a name="dai5"></a>
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/18_原告第５準備書面_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<div class="base">
+<div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>原告第５準備書面　目次</b>
@@ -3967,7 +3965,7 @@
 ## 13　原告第４準備書面
 ---
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/13_原告第４準備書面_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<div class="base">
+<div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>原告第４準備書面　目次</b>
@@ -4534,7 +4532,7 @@
 ---
 <a name="hikoku4"></a>
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/11_被告準備書面（４）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<p  class="doc">
+<p  class="doc" style="margin-top: 1.6em;">
 <b>被告準備書面（４）</b>
 <p  class="doc">
 令和６年８月９日
@@ -4704,7 +4702,7 @@
 ## 10　原告第３準備書面
 ---
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/10_原告第３準備書面_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<div class="base">
+<div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>原告第３準備書面　目次</b>
@@ -5072,7 +5070,7 @@
 ---
 <a name="hikoku3"></a>
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/09_被告準備書面（３）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<p  class="doc">
+<p  class="doc" style="margin-top: 1.6em;">
 <b>被告準備書面（３）</b>
 <p  class="doc">
 令和６年７月２５日
@@ -5707,7 +5705,7 @@
 ## 08　原告第２準備書面
 ---
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/08_原告第２準備書面_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<div class="base">
+<div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
 <b>原告第２準備書面　目次</b>
@@ -6550,7 +6548,7 @@
 ---
 <a name="hikoku2"></a>
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/06_被告準備書面（２）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<p  class="doc">
+<p  class="doc" style="margin-top: 1.6em;">
 <b>被告準備書面（２）</b>
 <p  class="doc">
 令和６年５月２３日
@@ -6911,7 +6909,7 @@
 ## 05　原告第１準備書面
 ---
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/05_原告第１準備書面_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<div class="base">
+<div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;"><b>原告第１準備書面　目次</b>
 <p class="card-text pad1 hg-idt"><a class="reference internal text" href="#dai1_1">第１　用語の整理</a>
@@ -7788,7 +7786,7 @@
 ## 03　被告準備書面（１）
 ---
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/03_被告準備書面（１）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<p  class="doc">
+<p  class="doc" style="margin-top: 1.6em;">
 <b>被告準備書面（１）</b>
 <p  class="doc">
 令和６年４月１９日
@@ -7799,12 +7797,11 @@
 <p class="pad1 idt">
 　原告の令和６年４月１２日付の「訴状訂正申立書」（以下「<b>訴状訂正申立書</b>」という。）による訴状の訂正にもかかわらず（以下、訴状訂正申立書による訂正後の訴状を「<b>訴状</b>」という。）、答弁書における被告の認否及び主張に変更はない。
 
-
 ## 02　答弁書
 ---
 <a name="toben"></a>
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/02_答弁書_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<div class="base">
+<div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;"><b>答弁書　目次</b>
 <p class="card-text pad1 hg-idt"><a class="reference internal text" href="#toben_1">第１　本案前の申立て</a>
@@ -8288,7 +8285,7 @@
 ---
 <a name="sojou"></a>
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/01_訴状_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
-<div class="base">
+<div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;"><b>訴状　目次</b>
 <p class="card-text pad1 hg-idt"><a class="reference internal text" href="#sojou_1">第１　請求の趣旨</a>
