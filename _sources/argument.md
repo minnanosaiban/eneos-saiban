@@ -525,7 +525,7 @@
 ## 22　控訴答弁書
 ---
 <a name="kouso_toben"></a>
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="★★★">ＰＤＦ</a>の用意があります。
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/22_控訴答弁書.pdf">ＰＤＦ</a>の用意があります。
 <div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
@@ -3205,8 +3205,8 @@
 
 ## 16　被告準備書面（５）
 ---
-<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos-hikoku5.pdf">ＰＤＦ</a>の用意があります。
-
+<a name="hikoku5"></a>
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/16_被告準備書面（５）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <div class="base" style="margin-top: 1.6em;">
 <div class="card_01">
 <p class="card-text" style="text-align: center;">
@@ -4532,6 +4532,8 @@
 
 ## 11　被告準備書面（４）
 ---
+<a name="hikoku4"></a>
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/11_被告準備書面（４）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <p  class="doc">
 <b>被告準備書面（４）</b>
 <p  class="doc">
@@ -5068,6 +5070,8 @@
 
 ## 09　被告準備書面（３）
 ---
+<a name="hikoku3"></a>
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/09_被告準備書面（３）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <p  class="doc">
 <b>被告準備書面（３）</b>
 <p  class="doc">
@@ -6544,6 +6548,8 @@
 
 ## 06　被告準備書面（２）
 ---
+<a name="hikoku2"></a>
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/06_被告準備書面（２）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <p  class="doc">
 <b>被告準備書面（２）</b>
 <p  class="doc">
@@ -7781,6 +7787,7 @@
 
 ## 03　被告準備書面（１）
 ---
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/03_被告準備書面（１）_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <p  class="doc">
 <b>被告準備書面（１）</b>
 <p  class="doc">
@@ -7795,6 +7802,8 @@
 
 ## 02　答弁書
 ---
+<a name="toben"></a>
+<i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/02_答弁書_ENEOS_公開.pdf">ＰＤＦ</a>の用意があります。
 <div class="base">
 <div class="card_01">
 <p class="card-text" style="text-align: center;"><b>答弁書　目次</b>
