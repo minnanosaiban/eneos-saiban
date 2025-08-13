@@ -1,7 +1,7 @@
 # <span style="color: #f37726;"><i class="fa-solid fa-angles-right"></i></span>　2022年12月判決<br>　　山田悠一郎裁判官
 
 ## 東京高裁判決
-
+---
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos_judgment_2023.06.15.pdf">ＰＤＦ</a>の用意があります。
 
 <p class="doc" style="margin-top: 6.4rem !important;">
@@ -96,7 +96,7 @@
 
 
 ## 東京地裁判決
-
+---
 <i class="fa-regular fa-file-pdf fa-2x"></i> <a class="reference internal word" href="https://minnanosaiban.github.io/eneos-saiban/_static/eneos_judgment_2022.12.22.pdf">ＰＤＦ</a>の用意があります。
 
 <div class="base" style="margin-top: 1.6em;">
