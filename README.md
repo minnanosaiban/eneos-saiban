@@ -16,4 +16,3 @@ git reset _build/
 git commit -m "Update main branch (excluding _build/)"
 git push origin main
 ```
-

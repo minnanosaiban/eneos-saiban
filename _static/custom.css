@@ -41,13 +41,13 @@ h1 {
   margin-left: 4.5rem;
   font-size: 2em;
   line-height: 1.5;
-  margin-bottom: 4rem;
+  margin-bottom: 8rem !important;
   font-style: 300 !important;
   }
 h2 {
   margin-right: 4.5rem;
   margin-left: 4.5rem;
-  margin-top: 4rem;
+  margin-top: 8rem;
   font-size: 2em;
   padding-left:2em;
   text-indent:-2em;
@@ -346,15 +346,9 @@ a.headerlink {
   font-weight: bold;
   text-decoration: none;
   }
-.bouten {
-  text-emphasis: dot;
-  text-emphasis-position: over;
-　}
 /* 追加）インデント設定 */
-.doc {
-  }
 .idt {
-  text-indent:1em;
+  text-indent: 1em;
   }
 .hg-idt {
   padding-left:1em;

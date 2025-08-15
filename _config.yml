@@ -4,7 +4,7 @@ logo: logo.png
 exclude_patterns: [_build, _00hikae, README.md, memo.txt]
 
 html:
-  announcement: <a class="reference external" href="https://minnanosaiban.github.io/eneos-saiban/judgment2025.html">東京地裁判決</a>と<a class="reference external" href="https://minnanosaiban.github.io/eneos-saiban/_static/21_控訴理由書_ENEOS_公開.pdf">控訴理由書</a>を掲載しました。
+  announcement: <a class="reference external" href="https://minnanosaiban.github.io/hotline/">メインのウェブサイト</a> <i class="bi bi-box-arrow-up-right"></i> もあります
   favicon: "_static/favicon.png" 
   baseurl: https://minnanosaiban.github.io/eneos-saiban/
   use_multitoc_numbering: true
