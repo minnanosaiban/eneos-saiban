@@ -1,14 +1,11 @@
 # <span style="color: #f37726;">ＥＮＥＯＳ</span>の内部通報制度に<br>をめぐる訴訟について
 
-ＥＮＥＯＳの従業員です。内部通報制度の窓口に相談したところ、いわゆる、通報者の排除、虚偽通知、隠蔽工作がなされました。
-
-通報者の「正当な関心」が損なわれ、心理的安全性が侵害されたと主張し、東京簡裁に提訴しました。（のちに東京地裁に移送）
-
+ＥＮＥＯＳの従業員です。内部通報制度の窓口に相談したところ、通報者の排除、虚偽通知、隠蔽工作がなされました。
 
 ## 裁判文書全文
 
 <p style="margin-top: 1.6em;"><a href="https://minnanosaiban.github.io/eneos-saiban/argument.html" class="arrow-link">
-  <span class="arrow"><i class="fa-solid fa-angles-right" style="color: #f37726;"></i>　</span>当事者の主張書面と認否
+  <span class="arrow"><i class="fa-solid fa-angles-right" style="color: #f37726;"></i>　</span>主張書面全文と認否
 </a>
 
 <p><a href="https://minnanosaiban.github.io/eneos-saiban/judgment2025.html" class="arrow-link">
