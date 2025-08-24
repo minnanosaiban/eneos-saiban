@@ -1,4 +1,4 @@
-# <span style="color: #f37726;"><i class="fa-solid fa-angles-right"></i></span>　当事者の主張書面と認否
+# <span style="color: #f37726;"><i class="fa-solid fa-angles-right"></i></span>　主張書面全文と認否
 
 
 ## 24　控訴理由補充書（２）
