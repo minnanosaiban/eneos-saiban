@@ -16,4 +16,6 @@
   <span class="arrow"><i class="fa-solid fa-angles-right" style="color: #f37726;"></i>　</span>2022年12月判決　山田悠一郎裁判官
 </a>
 
+※掲載している主張書面の内容は、「訂正申立書」の内容を反映させた内容です。
+
 ##
