@@ -14,5 +14,5 @@ ghp-import -n -p -f _build/html
 git add .
 git reset _build/
 git commit -m "Update main branch (excluding _build/)"
-git push origin main
+git push origin main --force
 ```
