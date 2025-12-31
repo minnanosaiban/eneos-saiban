@@ -1,18 +1,5 @@
-# みんなの裁判
+# ＥＮＥＯＳの内部通報制度にをめぐる訴訟について（裁判文書全文）
 
-## URL
-  - https://minnanosaiban.github.io/hotline/
+### URL
+  - https://minnanosaiban.github.io/eneos-saiban/index.html
 
-## git
-
-```
-git clone https://github.com/minnanosaiban/hotline.git
-git remote set-url origin https://github.com/minnanosaiban/hotline.git
-jb clean .
-jb build .
-ghp-import -n -p -f _build/html
-git add .
-git reset _build/
-git commit -m "Update main branch (excluding _build/)"
-git push origin main --force
-```
